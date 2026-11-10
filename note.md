@@ -1,5 +1,9 @@
 # Sổ tay các lệnh Git cơ bản (Git Cheat Sheet)
 
+repository
+branch 
+conflict 
+
 ## 1. Khởi tạo & Trạng thái
 - git init: Khởi tạo một Git repository (kho lưu trữ) mới tại thư mục hiện tại.
 - git status: Kiểm tra trạng thái hiện tại (file nào mới tạo, file nào đã sửa, file nào đã sẵn sàng commit).
